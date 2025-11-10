@@ -70,6 +70,10 @@ L1:      DEC DX
 DATA:    DB 09H, 05H, 06H, 0AH ; Array of data
 ```
 ## OUTPUT OF THE PROGRAM:
+![stepper motor 1](https://github.com/user-attachments/assets/f6c64a2d-fc84-4bb2-89e1-8c97ad69ffa4)
+
+![stepper motor 2](https://github.com/user-attachments/assets/3baac6ee-6466-4434-aaef-be77b77aa6cf)
+
 
 ## RESULT
 
